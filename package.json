@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Thayná Oliveira",
   "private": true,
+  "homepage": "https://thaynaoliveira.github.io/basic-people-information/",
   "dependencies": {
     "axios": "^0.17.0",
     "create-react-class": "^15.6.2",
