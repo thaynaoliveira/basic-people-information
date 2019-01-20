@@ -1,0 +1,33 @@
+footer{
+    color: #ffffff;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8px 16px;
+    background-color: #08403D;
+}
+
+.footer-content__dev h4{
+    margin: 0px 0px 0px 8px;
+    vertical-align: middle;
+    display: inline;
+    cursor: pointer;
+}
+
+.footer-content__dev h4:hover{
+    text-decoration: underline;
+}
+
+.footer-content__dev img{
+    width: 40px;
+    border-radius: 100%;
+}
+
+@media (max-width: 768px) {
+    footer{
+        bottom: -120px;    
+    }
+}

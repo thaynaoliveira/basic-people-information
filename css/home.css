@@ -1,0 +1,21 @@
+.home{
+    
+}
+
+.home__description{
+    text-align: center;
+    margin: 16px;
+}
+
+.home__description h4{
+    font-size: 20px;
+    margin: 0 0 8px;
+}
+
+.divisor{
+    width: 400px;
+    background-color: #19BFB8;
+    height: 2px;
+    margin: 16px auto;
+    max-width: 100%;
+}
